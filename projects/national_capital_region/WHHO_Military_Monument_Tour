@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General William Sherman Statue",
+        "Description": "General Sherman served in the Federal Army for the duration of the Civil War. Ascending to command the federal troops in the west, Sherman seized Atlanta in 1864, delivering a severe blow to the Confederate war effort. He later succeeded Ulysses Grant as General of the Army, a post he held from 1869 to 1883.",
+        "URL": "https://www.nps.gov/places/000/general-william-tecumseh-sherman-statue.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B0715629-0A04-E258-078085415FEA8217.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03428203632788,
+          38.89604246070505
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "First Division Memorial",
+        "Description": "The first monument built in Washington, DC, in honor of the soldiers who fought in World War I.",
+        "URL": "https://www.nps.gov/whho/learn/historyculture/first-division-monument.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/ABFED10B-AC7A-CE37-A94D72FCAD179F78.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03871346240226,
+          38.896161556924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Second Division Memorial",
+        "Description": "The Second Division Memorial is a tribute to the men who lost their lives in the service of the Second Division of the United States Army during World War I & II and the Korean War. The flaming sword guards the open granite frame symbolizing the Second Division’s actions in halting the German advance into Paris in 1918.",
+        "URL": "https://www.nps.gov/places/second-division-memorial.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B1EFDCDC-A196-A22D-800BAF1805B22D39.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03796216189117,
+          38.89258849178927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Butt-Millet Memorial Fountain",
+        "URL": "https://www.nps.gov/places/000/butt-millet-memorial-fountain.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/ABCB90A9-A91C-C37F-A14CC3C82C26AA3D.jpg?width=1600&quality=90&mode=crop",
+        "Description": "This fountain was erected with the contributions of friends of Major Archibald Wallingham Butt and Francis Davis Millet, who lost their lives on the RMS Titanic in April 1912. Both were widely known in Washington’s cultural, social, and political circles. Besides being a memorial, the fountain was designed to double as a water fountain for the horses ridden by U.S. Park Police while on patrol."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03744549571354,
+          38.89527817748228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General Marquis de Lafayette Statue",
+        "Description": "Born in France, Lafayette served as a general in the Continental Army, helping George Washington force the surrender of Lord Cornwallis at Yorktown in 1781. A lack of funds prevented a formal dedication ceremony for the statue.",
+        "URL": "https://www.nps.gov/places/000/general-lafayette-statue.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/secondary/AD16FB12-DA77-4EA4-2642CBC4C159B1F5.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03537543510261,
+          38.89901403875993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Navy Yard Urns",
+        "Description": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War.",
+        "URL": "https://www.nps.gov/places/000/navy-yard-urns.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B1B483A4-A7C1-BFAC-0C11C0104E9773AC.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03638377879282,
+          38.8990848430073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General Comte de Rochambeau Statue",
+        "URL": "https://www.nps.gov/places/000/general-rochambeau-statue.htm",
+        "Description": "The statue commemorates the Polish patriot and his lifelong dedication to fighting for freedom in America and Poland. His skill building fortifications in key places, including West Point, contributed to the success of the American Revolution.",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/AE9B1D39-DA7D-5CA4-AFBE7CEC9650B1D4.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03773579209683,
+          38.899001865652906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Statue of General Andrew Jackson",
+        "URL": "https://www.nps.gov/places/000/general-andrew-jackson-statue.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/AC3985ED-FC24-7BC3-889B32B07710CB80.jpg?width=1600&quality=90&mode=crop",
+        "Description": ": January 8, 1853 (38th anniversary of the Battle of New Orleans)  A hero of the War of 1812, Jackson served as the seventh president of the United States."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03655731604647,
+          38.899521309892464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General Thaddeus Kosciuszko Statue",
+        "URL": "https://www.nps.gov/places/000/general-kosciuszko-statue.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/AC9BD22F-FB59-D094-E99955587BD231A2.jpg?width=1600&quality=90&mode=crop",
+        "Description": "The statue commemorates the Polish patriot and his lifelong dedication to fighting for freedom in America and Poland. His skill building fortifications in key places, including West Point, contributed to the success of the American Revolution."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0353821786632,
+          38.9000287351453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General Baron von Steuben Statue",
+        "Description": "Prussian by birth, Baron von Steuben's role training American troops at Valley Forge helped save the revolution during a dark hour.",
+        "URL": "https://www.nps.gov/places/000/general-von-steuben-statue.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B046ED5D-D489-2528-AAC6B9FC34BA6FA0.jpg?width=1600&quality=90&mode=crop"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03772797244773,
+          38.90001939731894
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
